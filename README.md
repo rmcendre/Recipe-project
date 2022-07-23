@@ -8,3 +8,4 @@ Added code for cheese-corn.html
 Moved the image file to below the main header, adjusted the header in cheese-corn.html
 added recipe and picture for shrimp and grits, updated index.html
 Removed duplicate picture
+Added discriptions to recipe pages, and corrected some typos.
